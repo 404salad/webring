@@ -1,0 +1,50 @@
+[
+    {
+        "slug": "webring",
+        "about": "you are here!",
+        "url": "https://404salad.github.io/webring/"
+    },
+    {
+        "slug": "Sahil",
+        "url": "https://aboutsahil.vercel.app/",
+        "about": "Sahil's personal site"
+    },
+    {
+        "slug": "Grecil",
+        "about": "Grecil's personal site",
+        "url": "https://grecil.in/",
+        "rss": "https://grecil.in/index.xml"
+    },
+    {
+        "slug": "Robin",
+        "about": "Robin's personal site",
+        "url": "https://robinroy.xyz/"
+    },
+    {
+        "slug": "hellokartikey",
+        "about": "Kartikey's personal site",
+        "url": "https://hellokartikey.github.io/"
+    },
+    {
+        "slug": "ziqfm",
+        "about": "ziqfm's personal site",
+        "url": "https://ziqfm.com"
+    },
+    {
+        "slug": "Kat",
+        "about": "Khreyash's personal site",
+        "url": "https://katt07.github.io/portfolio-website/"
+    },
+    {
+        "slug": "Shreyash",
+        "about": "Shreyash's personal site",
+        "url": "https://shreyashbartwal.github.io/"
+    },
+    {
+        "slug": "nzec",
+        "about": "nzec's personal site",
+        "url": "https://nzec.sh",
+        "owner": "https://discuss.systems/@nzec"
+    }
+]
+
