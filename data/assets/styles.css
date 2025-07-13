@@ -5,16 +5,16 @@
 
 body {
     font-family: "Jetbrains Mono", monospace;
-	line-height: 1.6;
-    background-color: #111;
+    line-height: 1.6;
+    background-color: #000;
     color: #fff;
     font-weight:lighter;
-    max-width:1250px; 
+    max-width:1250px;
     margin: 0 auto
 }
 
 h1 {
-	text-align: center;
+    text-align: center;
 }
 
 a {
@@ -25,9 +25,9 @@ a {
 }
 
 a:hover, a:focus {
-    text-decoration: none; 
+    text-decoration: none;
     background-color: #58d3d7;
-    color: #111; 
+    color: #111;
 }
 
 b {
@@ -40,19 +40,19 @@ b {
     overflow-x:auto
 }
 
-table {	
+table {
     width: 100%;
     border-collapse: collapse;
     margin: 12px auto;
-	font-size: 1em;
+    font-size: 1em;
 }
 
-tr { 
-    margin-bottom: 10px; 
+tr {
+    margin-bottom: 10px;
 }
 
 tr:nth-child(odd) {
-        background-color: #222; /* Light gray for odd rows */
+    background-color: #222; /* Light gray for odd rows */
 }
 
 tr:hover {
@@ -63,13 +63,13 @@ th, td {
     padding: 10px;
     border: 2px solid #666;
     border-radius: 8px;
-	text-align: left; 
+    text-align: left;
 }
 
 th {
     background-color: #444;
     text-align: center;
-	font-size: 1.1em;
+    font-size: 1.1em;
 }
 
 ol {
@@ -96,7 +96,7 @@ pre {
 }
 
 .container {
-    max-width: 800px; 
+    max-width: 800px;
     margin: auto;
     padding: 12px;
 }
