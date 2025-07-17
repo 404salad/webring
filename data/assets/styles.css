@@ -50,7 +50,7 @@ h1, h2 {
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     text-align: left;
 }
 
@@ -78,13 +78,17 @@ td, th {
     padding: 0.75rem;
 }
 
-th {
-    font-family: var(--heading-font);
-    font-size: 1.75rem;
+td a {
+    font-family: var(--code-font);
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: normal;
     text-decoration-line: underline;
     text-decoration-color: var(--accent);
-    text-underline-offset: 10%;
-    text-decoration-thickness: .2ex;
+}
+
+th {
+    font-size: 1.75rem;
     padding: 0.25rem;
 }
 
