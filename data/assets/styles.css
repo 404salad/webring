@@ -24,6 +24,8 @@
   --font: "Rokkitt";
   --heading-font: "Abril Fatface";
   --code-font: "Jetbrains Mono";
+
+  --radius: 10px;
 }
 
 body {
@@ -54,23 +56,23 @@ h2 {
     text-align: left;
 }
 
+#members {
+    overflow-x: scroll;
+}
+
 table {
     width: 100%;
     border-color: var(--accent);
     border-style: solid;
     border-width: thin;
-    border-radius: 20px
+    border-radius: var(--radius);
 }
 
-thead {
+tr:nth-child(even) td, th {
     background-color: var(--code-bg);
 }
 
-tr:nth-child(even) {
-    background-color: var(--code-bg);
-}
-
-tr:hover {
+tr:hover td {
     background-color: var(--hover-bg);
 }
 
@@ -92,6 +94,22 @@ th {
     padding: 0.25rem;
 }
 
+thead tr:first-child th:first-child {
+    border-top-left-radius: var(--radius);
+}
+
+thead tr:first-child th:last-child {
+    border-top-right-radius: var(--radius);
+}
+
+tbody tr:last-child td:first-child {
+    border-bottom-left-radius: var(--radius);
+}
+
+tbody tr:last-child td:last-child {
+    border-bottom-right-radius: var(--radius);
+}
+
 a {
     color: var(--link);
     font-style: italic;
@@ -103,7 +121,7 @@ pre, code {
     color: var(--link);
     background-color: var(--code-bg);
     border-color: var(--accent);
-    border-radius: 10px;
+    border-radius: var(--radius);
     border-style: outset;
     border-width: thin;
     font-family: var(--code-font);
