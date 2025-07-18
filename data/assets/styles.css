@@ -129,6 +129,7 @@ pre, code {
     font-size: 1.25rem;
     line-height: 1;
     padding: 1rem;
+    overflow-x: scroll;
 }
 
 code {
@@ -148,10 +149,6 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-    table {
-        width: 100%; /* Allows the table to be 100% width on smaller screens */
-    }
-
     body {
         padding: 0.5em;
     }
