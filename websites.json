@@ -46,6 +46,12 @@
         "about": "nzec's personal site",
         "url": "https://nzec.sh",
         "owner": "https://discuss.systems/@nzec"
+    },
+    {
+        "slug": "Magitian",
+        "about": "Magitian's $HOME, Magitian's rules",
+        "url": "https://magitian.is-a.dev/",
+        "owner": "https://fedia.social/@magitian"
     }
 ]
 
