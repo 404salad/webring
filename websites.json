@@ -6,8 +6,9 @@
     },
     {
         "slug": "Sahil",
-        "url": "https://aboutsahil.vercel.app/",
-        "about": "Sahil's personal site"
+        "url": "https://blog.404salad.com/",
+        "about": "Sahil's blog"
+        "owner": "https://github.com/404salad"
     },
     {
         "slug": "Grecil",
