@@ -5,9 +5,10 @@
         "url": "https://404salad.github.io/webring/"
     },
     {
-        "slug": "Sahil",
-        "url": "https://aboutsahil.vercel.app/",
-        "about": "Sahil's personal site"
+        "slug": "404salad",
+        "url": "https://blog.404salad.com/",
+        "about": "404salad's blog",
+        "owner": "https://github.com/404salad"
     },
     {
         "slug": "Grecil",
