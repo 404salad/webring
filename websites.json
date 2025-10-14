@@ -53,6 +53,12 @@
         "about": "Magitian's $HOME, Magitian's rules",
         "url": "https://magitian.is-a.dev/",
         "owner": "https://fedia.social/@magitian"
+    },
+    {
+        "slug": "eBits",
+        "about": "Chilling at 0x08000",
+        "url": "https://embeddingbits.is-a.dev/",
+        "owner": "https://github.com/embeddingbits/"
     }
 ]
 
