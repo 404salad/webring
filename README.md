@@ -10,9 +10,9 @@ code based on [ringfairy](https://github.com/k3rs3d/ringfairy) and [roboring](ht
 2. add the webring links to your site:
 
 ```html
-<a href="https://404salad.github.io/webring/YOUR_SLUG/previous"> <- </a>
+<a href="https://404salad.github.io/webring/oscleaks/previous"> <- </a>
 <a href="https://404salad.github.io/webring">webring</a>
-<a href="https://404salad.github.io/webring/YOUR_SLUG/next"> -> </a>
+<a href="https://404salad.github.io/webring/oscleaks/next"> -> </a>
 ```
 
 3. submit a pull request adding yourself to websites.json
@@ -23,12 +23,11 @@ here's an example entry:
 
 ```json
 {
-"name": "Example Website",
-"slug": "example",
-"about": "example site",
-"url": "https://example.com/",
-"rss": "https://example.com/index.xml",
-"owner": "person@example.com"
+  "name": "OSC-LEAKS",
+  "slug": "oscleaks",
+  "about": "Fan project sharing object show content like BFDI, TPOT, and Inanimate Insanity leaks, behind-the-scenes, and archives.",
+  "url": "https://osc-leaks.neocities.org/",
+  "owner": "mephonem55email@gmail.com"
 }
 ```
 
