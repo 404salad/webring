@@ -59,6 +59,12 @@
         "about": "Chilling at 0x08000",
         "url": "https://embeddingbits.is-a.dev/",
         "owner": "https://github.com/embeddingbits/"
+    },
+    {
+        "slug": "photohk",
+        "about": "A noob potographer",
+        "url": "https://www.photohk.online/",
+        "owner": "https://github.com/503badgateway/"
     }
 ]
 
