@@ -33,9 +33,10 @@
         "url": "https://ziqfm.com"
     },
     {
-        "slug": "Kat",
-        "about": "Kat's personal site",
-        "url": "https://katt07.github.io/portfolio-website/"
+        "slug": "kat",
+        "about": "Kat's portfolio website",
+        "url": "https://katt07.github.io/",
+        "owner": "https://github.com/KATT07"
     },
     {
         "slug": "Shreyash",
